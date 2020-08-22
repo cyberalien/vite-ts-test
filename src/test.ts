@@ -1,6 +1,6 @@
 import { VNode } from 'vue';
 
-// export { VNode };
+export { VNode };
 
 export function foo() {
 	console.log('bar');
